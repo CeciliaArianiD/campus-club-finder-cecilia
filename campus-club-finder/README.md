@@ -16,20 +16,7 @@ A responsive React web application that helps students browse, explore, and join
 
 ## Project Structure
 
-src/
-├── assets/ # Images for clubs
-├── components/ # Reusable UI components (e.g., Navbar)
-│ └── Navbar.jsx
-├── data/ # Data definitions and club data (TypeScript)
-│ └── data.ts
-├── pages/ # Pages mapped to routes
-│ ├── AboutPage.jsx
-│ ├── ClubDetailPage.jsx
-│ ├── ClubListPage.jsx
-│ ├── HomePage.jsx
-│ └── NotFoundPage.jsx
-├── App.jsx # Application root with route setup
-└── main.jsx # Entry point that renders App
+![Project Structure](./screenshot/Project%20Structure.png)
 
 - `assets/` contains static images used by the app.  
 - `components/` holds shared UI elements used across pages.  
