@@ -33,7 +33,7 @@ A responsive React web application that helps students browse, explore, and join
 ![Home Page](./screenshot/Home.png)
 - Club list with sorting and grid/list toggle  
 ![Club List](./screenshot/Club%20List%20Grid%20View.png)
-![Club List](./screenshot/Club%20List%20Grid%20View.png)
+![Club List](./screenshot/Club%20List%20List%20View.png)
 - Club detail page with event list and "Join" button (saved with `localStorage`)  
 ![Club Detail](./screenshot/Club%20Detail%20Not%20Join.png)
 ![Club Detail](./screenshot/Club%20Detail%20Join.png)
